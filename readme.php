@@ -1,3 +1,5 @@
+// 支付宝转银行卡源码（欢迎转载，持续更新）
+
 // 1、直接访问获取cardId及cardno的值：
 // https://shenghuo.alipay.com/transfercore/fill.htm?_tosheet=true
 // 2、在“转账到银行卡”页面 已存银行卡的下拉列表找到转卡的记录  ，然后直接查看页面源码，搜索cardType=”historyCard”，可以看到cardId及cardno的值，然后复制下来填写下面参数
